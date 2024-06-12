@@ -27,7 +27,7 @@ En este proyecto se implementarán los siguientes servicios:
 
 ## Enlaces
 
-Para más detalles y documentación, visite nuestra [Wiki del Proyecto](https://github.com/1Donell/Servidores_SO/wiki).
+Para más detalles y documentación, visite la [Wiki del Proyecto](https://github.com/1Donell/Servidores_SO/wiki).
 
 ---
 
