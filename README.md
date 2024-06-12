@@ -17,7 +17,7 @@ La actividad final del curso consiste en:
 
 ### Topología de Red
 
-![Diagrama del Proyecto](./Servidores_SO/blob/main/Diagrama%20proyecto%20S.O.png)
+![Diagrama del Proyecto](./Diagrama%20proyecto%20S.O.png)
 
 En este proyecto se implementarán los siguientes servicios:
 - `serverManchester` (192.168.1.30): SFTP con VSFTPD.
