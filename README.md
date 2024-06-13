@@ -1,3 +1,5 @@
+![universidad-simon-bolivar-9807a](https://github.com/1Donell/Servidores_SO/assets/88102319/c1a08c6b-0efd-4579-bc04-2a78f52a44a0)
+
 # Proyecto Final del Curso de Sistemas Operativos - Universidad Simón Bolívar, Cúcuta
 
 ## Introducción
